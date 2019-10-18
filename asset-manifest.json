@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sl-license-plate-validator/static/css/main.3aae7f0c.chunk.css",
+    "main.js": "/sl-license-plate-validator/static/js/main.6cea0022.chunk.js",
+    "main.js.map": "/sl-license-plate-validator/static/js/main.6cea0022.chunk.js.map",
+    "runtime-main.js": "/sl-license-plate-validator/static/js/runtime-main.e937124c.js",
+    "runtime-main.js.map": "/sl-license-plate-validator/static/js/runtime-main.e937124c.js.map",
+    "static/js/2.9555e78b.chunk.js": "/sl-license-plate-validator/static/js/2.9555e78b.chunk.js",
+    "static/js/2.9555e78b.chunk.js.map": "/sl-license-plate-validator/static/js/2.9555e78b.chunk.js.map",
+    "index.html": "/sl-license-plate-validator/index.html",
+    "precache-manifest.8eae343193016ffc7d7a77c083e96ad4.js": "/sl-license-plate-validator/precache-manifest.8eae343193016ffc7d7a77c083e96ad4.js",
+    "service-worker.js": "/sl-license-plate-validator/service-worker.js",
+    "static/css/main.3aae7f0c.chunk.css.map": "/sl-license-plate-validator/static/css/main.3aae7f0c.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e937124c.js",
+    "static/js/2.9555e78b.chunk.js",
+    "static/css/main.3aae7f0c.chunk.css",
+    "static/js/main.6cea0022.chunk.js"
+  ]
+}
