@@ -1,0 +1,38 @@
+.plate{
+    display: flex;
+    background-color: slategray;
+    padding: 5rem;
+    border: 5px solid wheat;
+    border-radius: 10px;
+}
+
+.plate-input{
+    outline: none;
+    width: 20rem;
+    border-radius: 5px;
+    border: 2px solid darkslategray;
+    background-color: lightblue;
+    color: black;
+    font-family: 'Abel', sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.btnValidate{
+    padding: 1rem;
+    margin-left: 1rem;
+    border-radius: 5px;
+    border: 2px solid seagreen;
+    outline-color: aqua;
+    background-color: lightseagreen;
+    font-family: 'Abel', sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btnValidate:hover{
+    background-color: lightsalmon;
+    border: 2px solid salmon;
+    outline-color: sienna;
+}
