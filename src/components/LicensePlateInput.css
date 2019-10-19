@@ -1,5 +1,7 @@
 .plate{
-    display: flex;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    row-gap: 1rem;
     background-color: slategray;
     padding: 5rem;
     border: 5px solid wheat;
@@ -35,4 +37,16 @@
     background-color: lightsalmon;
     border: 2px solid salmon;
     outline-color: sienna;
+}
+
+.error-visible{
+    display: flex;
+    justify-content: center;
+    color:lightgoldenrodyellow;
+    font-size: large;
+    font-weight: 200;
+}
+
+.error-hidden{
+    display: none;
 }

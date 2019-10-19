@@ -1,6 +1,7 @@
 import React from 'react';
 import './ValidatedPlates.css';
 
+// Displays a collection of validated plate numbers
 const ValidatedPlates = props => {
     return(
         <div

@@ -1,7 +1,6 @@
 .validated-plates{
     display: grid;
-    grid-template-columns: repeat(3, 15rem);
- 
+    grid-template-columns: repeat(3, 15rem); 
 }
 
 .plate-number{
@@ -10,13 +9,15 @@
 }
 
 .plate-validity{
+    text-align: center;
     font-size: medium;
     text-transform: uppercase;
 }
 
 .license-type{
-    font-size: medium;
+    font-size: large;
     text-transform: capitalize;
+    font-weight: bold;
 }
 
 .new{
@@ -32,6 +33,10 @@
 }
 
 .validated-plate{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     background-color: lightskyblue;
     padding: 1rem;
     margin: 1rem 1rem;

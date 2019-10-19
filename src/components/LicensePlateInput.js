@@ -1,6 +1,7 @@
 import React from 'react';
 import './LicensePlateInput.css';
 
+// Lets the user input a plate number. Once the Validate button pressed validatePlate() in App.js is called.
 const LicensePlateInput = props => {
     return(
         <div className="plate">
@@ -18,7 +19,13 @@ const LicensePlateInput = props => {
                className='btnValidate'
                onClick={props.click}>
                    Validate
-              </button>
+            </button>
+
+            <div
+                className={`${props.isInvalid ? 'error-visible' : 'error-hidden'}`}
+            >
+                    Invalid Plate Number!
+            </div>
         </div>
     )
 }
