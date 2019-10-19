@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sl-license-plate-validator/precache-manifest.8eae343193016ffc7d7a77c083e96ad4.js"
+  "/sl-license-plate-validator/precache-manifest.328a3f9f8b3a31ffb68b4ad9919ea561.js"
 );
 
 self.addEventListener('message', (event) => {
