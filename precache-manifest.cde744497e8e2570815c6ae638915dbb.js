@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a8eb8e83a554b7b8cab42188a7eb6eea",
+    "revision": "ea55f8644d6d83e77f44537ef81cde54",
     "url": "/sl-license-plate-validator/index.html"
   },
   {
-    "revision": "d882837a6e9a0a65973a",
+    "revision": "e932d7baf506aaf88c44",
     "url": "/sl-license-plate-validator/static/css/main.74c6d9f6.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sl-license-plate-validator/static/js/2.9555e78b.chunk.js"
   },
   {
-    "revision": "d882837a6e9a0a65973a",
-    "url": "/sl-license-plate-validator/static/js/main.a4e65202.chunk.js"
+    "revision": "e932d7baf506aaf88c44",
+    "url": "/sl-license-plate-validator/static/js/main.ca359c73.chunk.js"
   },
   {
     "revision": "d12e4c57d1d694e9b58a",

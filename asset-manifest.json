@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sl-license-plate-validator/static/css/main.74c6d9f6.chunk.css",
-    "main.js": "/sl-license-plate-validator/static/js/main.a4e65202.chunk.js",
-    "main.js.map": "/sl-license-plate-validator/static/js/main.a4e65202.chunk.js.map",
+    "main.js": "/sl-license-plate-validator/static/js/main.ca359c73.chunk.js",
+    "main.js.map": "/sl-license-plate-validator/static/js/main.ca359c73.chunk.js.map",
     "runtime-main.js": "/sl-license-plate-validator/static/js/runtime-main.e937124c.js",
     "runtime-main.js.map": "/sl-license-plate-validator/static/js/runtime-main.e937124c.js.map",
     "static/js/2.9555e78b.chunk.js": "/sl-license-plate-validator/static/js/2.9555e78b.chunk.js",
     "static/js/2.9555e78b.chunk.js.map": "/sl-license-plate-validator/static/js/2.9555e78b.chunk.js.map",
     "index.html": "/sl-license-plate-validator/index.html",
-    "precache-manifest.328a3f9f8b3a31ffb68b4ad9919ea561.js": "/sl-license-plate-validator/precache-manifest.328a3f9f8b3a31ffb68b4ad9919ea561.js",
+    "precache-manifest.cde744497e8e2570815c6ae638915dbb.js": "/sl-license-plate-validator/precache-manifest.cde744497e8e2570815c6ae638915dbb.js",
     "service-worker.js": "/sl-license-plate-validator/service-worker.js",
     "static/css/main.74c6d9f6.chunk.css.map": "/sl-license-plate-validator/static/css/main.74c6d9f6.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.e937124c.js",
     "static/js/2.9555e78b.chunk.js",
     "static/css/main.74c6d9f6.chunk.css",
-    "static/js/main.a4e65202.chunk.js"
+    "static/js/main.ca359c73.chunk.js"
   ]
 }
